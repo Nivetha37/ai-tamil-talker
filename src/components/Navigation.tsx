@@ -1,55 +1,53 @@
 import { Link, useLocation } from "react-router-dom";
 import { Button } from "./ui/button";
-import { Moon, Sun } from "lucide-react";
-import { useTheme } from "next-themes";
+import { MessageCircle, BarChart3, Info, CreditCard, Bot } from "lucide-react";
+import { ThemeToggle } from "./ThemeToggle";
 
 export const Navigation = () => {
   const location = useLocation();
-  const { setTheme, theme } = useTheme();
 
   const navItems = [
-    { path: "/", label: "Chat", icon: "💬" },
-    { path: "/dashboard", label: "Dashboard", icon: "📊" },
-    { path: "/about", label: "About", icon: "ℹ️" },
+    { path: "/", label: "Chat", icon: MessageCircle },
+    { path: "/dashboard", label: "Dashboard", icon: BarChart3 },
+    { path: "/pricing", label: "Pricing", icon: CreditCard },
+    { path: "/about", label: "About", icon: Info },
   ];
 
-  const toggleTheme = () => {
-    setTheme(theme === "dark" ? "light" : "dark");
-  };
-
   return (
-    <nav className="bg-card border-b border-border">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-16">
+    <nav className="border-b border-border bg-background/80 backdrop-blur-sm sticky top-0 z-50">
+      <div className="container mx-auto px-6">
+        <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-8">
-            <div className="flex-shrink-0">
-              <h1 className="text-xl font-bold text-foreground">AI Support</h1>
-            </div>
-            <div className="hidden md:flex space-x-4">
-              {navItems.map((item) => (
-                <Link
-                  key={item.path}
-                  to={item.path}
-                  className={`inline-flex items-center px-1 pt-1 text-sm font-medium transition-colors ${
-                    location.pathname === item.path
-                      ? "text-primary border-b-2 border-primary"
-                      : "text-muted-foreground hover:text-foreground"
-                  }`}
-                >
-                  <span className="mr-2">{item.icon}</span>
-                  {item.label}
-                </Link>
-              ))}
+            <Link to="/" className="flex items-center space-x-2">
+              <Bot className="h-8 w-8 text-primary" />
+              <span className="text-xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+                ChatBot SaaS
+              </span>
+            </Link>
+            <div className="hidden md:flex items-center space-x-1">
+              {navItems.map((item) => {
+                const Icon = item.icon;
+                const isActive = location.pathname === item.path;
+                return (
+                  <Link key={item.path} to={item.path}>
+                    <Button
+                      variant={isActive ? "default" : "ghost"}
+                      size="sm"
+                      className="flex items-center space-x-2 transition-all duration-200"
+                    >
+                      <Icon className="h-4 w-4" />
+                      <span>{item.label}</span>
+                    </Button>
+                  </Link>
+                );
+              })}
             </div>
           </div>
-          <div className="flex items-center">
-            <Button
-              variant="ghost"
-              size="icon"
-              onClick={toggleTheme}
-              className="mr-2"
-            >
-              {theme === "dark" ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
+          
+          <div className="flex items-center space-x-4">
+            <ThemeToggle />
+            <Button variant="default" className="hidden md:flex bg-gradient-to-r from-primary to-secondary hover:from-primary-glow hover:to-secondary-glow">
+              Get Started
             </Button>
           </div>
         </div>

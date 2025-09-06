@@ -62,14 +62,26 @@ serve(async (req) => {
     });
 
     let botReply = '';
+    let escalated = false;
+    
     if (response.ok) {
       const data = await response.json();
       botReply = data.generated_text || 'I apologize, but I encountered an issue. Please try again.';
+      
+      // Check if bot cannot answer (simple escalation logic)
+      if (botReply.length < 10 || botReply.toLowerCase().includes('i don\'t know') || 
+          botReply.toLowerCase().includes('cannot help') || botReply.toLowerCase().includes('not sure')) {
+        escalated = true;
+        botReply = language === 'tamil' 
+          ? 'மன்னிக்கவும், எனக்கு தெரியவில்லை. மனித முகவரிடம் அனுப்புகிறேன்.'
+          : 'Sorry, I don\'t know. Escalating to human agent.';
+      }
     } else {
       console.error('HuggingFace API error:', response.status);
+      escalated = true;
       botReply = language === 'tamil' 
-        ? 'மன்னிக்கவும், தற்போது சேவையில் சிக்கல் உள்ளது. தயவுசெய்து மீண்டும் முயற்சி செய்யுங்கள்.'
-        : 'I apologize, but I encountered an issue. Please try again.';
+        ? 'மன்னிக்கவும், தற்போது சேவையில் சிக்கல் உள்ளது. மனித முகவரிடம் அனுப்புகிறேன்.'
+        : 'Sorry, I don\'t know. Escalating to human agent.';
     }
 
     console.log('Bot reply:', botReply);
@@ -81,7 +93,7 @@ serve(async (req) => {
         user_message: message,
         bot_reply: botReply,
         language: language,
-        escalated: false
+        escalated: escalated
       })
       .select()
       .single();

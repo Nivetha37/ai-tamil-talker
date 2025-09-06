@@ -18,7 +18,7 @@ export const ChatInterface = () => {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: "welcome",
-      message: "👋 Welcome! Type in Tamil or English to chat with our AI assistant.",
+      message: "👋 Welcome! Ask me anything in Tamil or English.",
       sender: "system",
       timestamp: new Date(),
     },
