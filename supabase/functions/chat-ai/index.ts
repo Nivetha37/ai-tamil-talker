@@ -33,6 +33,60 @@ serve(async (req) => {
     const language = detectLanguage(message);
     console.log('Detected language:', language);
 
+    // Load FAQ data
+    const faqUrl = 'https://xhfvejtcfizuefpfpnki.supabase.co/storage/v1/object/public/faqs/faqs.json';
+    let faqs = [];
+    try {
+      const faqResponse = await fetch(faqUrl);
+      if (faqResponse.ok) {
+        faqs = await faqResponse.json();
+      }
+    } catch (error) {
+      console.error('Error loading FAQs:', error);
+    }
+
+    // Find relevant FAQs based on user message
+    const findRelevantFAQs = (userMessage: string, language: string, faqData: any[], topK = 5) => {
+      const messageLower = userMessage.toLowerCase();
+      const qField = language === 'tamil' ? 'q_ta' : 'q_en';
+      const aField = language === 'tamil' ? 'a_ta' : 'a_en';
+      
+      // Score each FAQ based on keyword matching
+      const scoredFAQs = faqData.map(faq => {
+        const question = faq[qField]?.toLowerCase() || '';
+        const words = messageLower.split(/\s+/);
+        const matchScore = words.reduce((score, word) => {
+          if (word.length > 2 && question.includes(word)) {
+            return score + 1;
+          }
+          return score;
+        }, 0);
+        
+        return {
+          question: faq[qField],
+          answer: faq[aField],
+          score: matchScore
+        };
+      });
+
+      // Return top K FAQs with score > 0
+      return scoredFAQs
+        .filter(faq => faq.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .slice(0, topK);
+    };
+
+    const relevantFAQs = findRelevantFAQs(message, language, faqs);
+    console.log('Found relevant FAQs:', relevantFAQs.length);
+
+    // Build context from relevant FAQs
+    let contextString = '';
+    if (relevantFAQs.length > 0) {
+      contextString = relevantFAQs
+        .map(faq => `Q: ${faq.question}\nA: ${faq.answer}`)
+        .join('\n\n');
+    }
+
     // Get Gemini API response
     const geminiApiKey = Deno.env.get('GEMINI_API_KEY');
     if (!geminiApiKey) {
@@ -43,35 +97,68 @@ serve(async (req) => {
     const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-exp" });
 
     const systemPrompt = language === 'tamil' 
-      ? 'You are a helpful customer support assistant. Respond in Tamil language.'
-      : 'You are a helpful customer support assistant. Respond in English language.';
+      ? `நீங்கள் ஒரு உதவிகரமான வாடிக்கையாளர் ஆதரவு உதவியாளர். தமிழில் பதிலளிக்கவும்.
+
+முக்கியமான வழிமுறைகள்:
+- கீழே வழங்கப்பட்ட FAQ தகவலின் அடிப்படையில் மட்டுமே பதிலளிக்கவும்
+- FAQ தரவில் பதில் இல்லை என்றால், உங்களுக்குத் தெரியாது என்று சொல்லுங்கள்
+- கற்பனை செய்யாதீர்கள் அல்லது FAQ இல் இல்லாத தகவலைச் சேர்க்காதீர்கள்
+- தொடர்புடைய FAQ பதிலை நேரடியாகப் பயன்படுத்தவும்
+
+FAQ அறிவு தளம்:
+${contextString || 'இந்தக் கேள்விக்கான தகவல் கிடைக்கவில்லை.'}`
+      : `You are a helpful customer support assistant. Respond in English language.
+
+CRITICAL INSTRUCTIONS:
+- ONLY answer based on the FAQ information provided below
+- If the answer is not in the FAQ data, say you don't know and offer to escalate
+- DO NOT hallucinate or add information not present in the FAQs
+- Use the relevant FAQ answer directly
+
+FAQ Knowledge Base:
+${contextString || 'No relevant information found for this query.'}`;
 
     let botReply = '';
     let escalated = false;
     
-    try {
-      const result = await model.generateContent([
-        systemPrompt,
-        message
-      ]);
-      
-      const response = await result.response;
-      botReply = response.text() || 'I apologize, but I encountered an issue. Please try again.';
-      
-      // Check if bot cannot answer (simple escalation logic)
-      if (botReply.length < 10 || botReply.toLowerCase().includes('i don\'t know') || 
-          botReply.toLowerCase().includes('cannot help') || botReply.toLowerCase().includes('not sure')) {
-        escalated = true;
-        botReply = language === 'tamil' 
-          ? 'மன்னிக்கவும், எனக்கு தெரியவில்லை. மனித முகவரிடம் அனுப்புகிறேன்.'
-          : 'Sorry, I don\'t know. Escalating to human agent.';
-      }
-    } catch (error) {
-      console.error('Gemini API error:', error);
+    // If no relevant FAQs found, escalate immediately
+    if (relevantFAQs.length === 0) {
       escalated = true;
       botReply = language === 'tamil' 
-        ? 'மன்னிக்கவும், தற்போது சேவையில் சிக்கல் உள்ளது. மனித முகவரிடம் அனுப்புகிறேன்.'
-        : 'Sorry, I don\'t know. Escalating to human agent.';
+        ? 'மன்னிக்கவும், இந்தக் கேள்விக்கான தகவல் என்னிடம் இல்லை. மனித முகவரிடம் அனுப்புகிறேன்.'
+        : 'Sorry, I don\'t have information about this query. Escalating to human agent.';
+    } else {
+      try {
+        const result = await model.generateContent([
+          systemPrompt,
+          `User question: ${message}`
+        ]);
+        
+        const response = await result.response;
+        botReply = response.text() || 'I apologize, but I encountered an issue. Please try again.';
+        
+        // Check if bot cannot answer (escalation logic)
+        const escalationKeywords = language === 'tamil'
+          ? ['தெரியாது', 'தெரியவில்லை', 'இல்லை', 'கிடைக்கவில்லை']
+          : ['don\'t know', 'not sure', 'cannot help', 'no information', 'escalat'];
+        
+        const shouldEscalate = escalationKeywords.some(keyword => 
+          botReply.toLowerCase().includes(keyword)
+        );
+        
+        if (botReply.length < 10 || shouldEscalate) {
+          escalated = true;
+          botReply = language === 'tamil' 
+            ? 'மன்னிக்கவும், இந்தக் கேள்விக்கு நான் சரியாக பதிலளிக்க முடியவில்லை. மனித முகவரிடம் அனுப்புகிறேன்.'
+            : 'Sorry, I cannot properly answer this question. Escalating to human agent.';
+        }
+      } catch (error) {
+        console.error('Gemini API error:', error);
+        escalated = true;
+        botReply = language === 'tamil' 
+          ? 'மன்னிக்கவும், தற்போது சேவையில் சிக்கல் உள்ளது. மனித முகவரிடம் அனுப்புகிறேன்.'
+          : 'Sorry, there is a service issue. Escalating to human agent.';
+      }
     }
 
     console.log('Bot reply:', botReply);

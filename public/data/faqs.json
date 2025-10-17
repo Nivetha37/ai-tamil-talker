@@ -1,0 +1,1542 @@
+[
+  {
+    "domain": "beauty",
+    "q_en": "Is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Do you accept digital payments?",
+    "a_en": "Yes, we accept UPI, cards, and online payments.",
+    "q_ta": "நீங்கள் டிஜிட்டல் கட்டணங்களை ஏற்றுக்கொள்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் UPI, கார்டு மற்றும் ஆன்லைன் கட்டணங்களை ஏற்றுக்கொள்கிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, do you accept digital payments?",
+    "a_en": "Yes, we accept UPI, cards, and online payments.",
+    "q_ta": "நீங்கள் டிஜிட்டல் கட்டணங்களை ஏற்றுக்கொள்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் UPI, கார்டு மற்றும் ஆன்லைன் கட்டணங்களை ஏற்றுக்கொள்கிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Are you able to accept digital payments?",
+    "a_en": "Yes, we accept UPI, cards, and online payments.",
+    "q_ta": "நீங்கள் டிஜிட்டல் கட்டணங்களை ஏற்றுக்கொள்கிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், நாங்கள் UPI, கார்டு மற்றும் ஆன்லைன் கட்டணங்களை ஏற்றுக்கொள்கிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, do you accept digital payments?",
+    "a_en": "Yes, we accept UPI, cards, and online payments.",
+    "q_ta": "நீங்கள் டிஜிட்டல் கட்டணங்களை ஏற்றுக்கொள்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் UPI, கார்டு மற்றும் ஆன்லைன் கட்டணங்களை ஏற்றுக்கொள்கிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "What are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன?",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, what are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "What are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, what are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Are you able to offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "health",
+    "q_en": "Do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Are you able to offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Do you provide lab tests?",
+    "a_en": "Yes, we provide home sample collection and lab tests.",
+    "q_ta": "நீங்கள் ஆய்வக பரிசோதனைகள் செய்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் வீட்டில் மாதிரி சேகரிப்பு மற்றும் ஆய்வக பரிசோதனைகளை வழங்குகிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, do you provide lab tests?",
+    "a_en": "Yes, we provide home sample collection and lab tests.",
+    "q_ta": "நீங்கள் ஆய்வக பரிசோதனைகள் செய்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் வீட்டில் மாதிரி சேகரிப்பு மற்றும் ஆய்வக பரிசோதனைகளை வழங்குகிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Are you able to provide lab tests?",
+    "a_en": "Yes, we provide home sample collection and lab tests.",
+    "q_ta": "நீங்கள் ஆய்வக பரிசோதனைகள் செய்கிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், நாங்கள் வீட்டில் மாதிரி சேகரிப்பு மற்றும் ஆய்வக பரிசோதனைகளை வழங்குகிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, do you provide lab tests?",
+    "a_en": "Yes, we provide home sample collection and lab tests.",
+    "q_ta": "நீங்கள் ஆய்வக பரிசோதனைகள் செய்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் வீட்டில் மாதிரி சேகரிப்பு மற்றும் ஆய்வக பரிசோதனைகளை வழங்குகிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "What are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, what are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "What are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, what are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Can you tell me, do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Are you able to have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "I would like to know, do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "What are your gym timings?",
+    "a_en": "We are open 6 AM to 10 PM every day.",
+    "q_ta": "உங்கள் ஜிம் நேரம் என்ன?",
+    "a_ta": "எங்கள் ஜிம் தினமும் காலை 6 மணி முதல் இரவு 10 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Can you tell me, what are your gym timings?",
+    "a_en": "We are open 6 AM to 10 PM every day.",
+    "q_ta": "உங்கள் ஜிம் நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் ஜிம் தினமும் காலை 6 மணி முதல் இரவு 10 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "What are your gym timings?",
+    "a_en": "We are open 6 AM to 10 PM every day.",
+    "q_ta": "உங்கள் ஜிம் நேரம் என்ன? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "எங்கள் ஜிம் தினமும் காலை 6 மணி முதல் இரவு 10 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "I would like to know, what are your gym timings?",
+    "a_en": "We are open 6 AM to 10 PM every day.",
+    "q_ta": "உங்கள் ஜிம் நேரம் என்ன? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "எங்கள் ஜிம் தினமும் காலை 6 மணி முதல் இரவு 10 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you offer yoga classes?",
+    "a_en": "Yes, yoga classes are conducted daily in the morning and evening.",
+    "q_ta": "நீங்கள் யோகா வகுப்புகளை நடத்துகிறீர்களா?",
+    "a_ta": "ஆம், யோகா வகுப்புகள் தினமும் காலை மற்றும் மாலை நடைபெறுகின்றன."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Can you tell me, do you offer yoga classes?",
+    "a_en": "Yes, yoga classes are conducted daily in the morning and evening.",
+    "q_ta": "நீங்கள் யோகா வகுப்புகளை நடத்துகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், யோகா வகுப்புகள் தினமும் காலை மற்றும் மாலை நடைபெறுகின்றன."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Are you able to offer yoga classes?",
+    "a_en": "Yes, yoga classes are conducted daily in the morning and evening.",
+    "q_ta": "நீங்கள் யோகா வகுப்புகளை நடத்துகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், யோகா வகுப்புகள் தினமும் காலை மற்றும் மாலை நடைபெறுகின்றன."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "I would like to know, do you offer yoga classes?",
+    "a_en": "Yes, yoga classes are conducted daily in the morning and evening.",
+    "q_ta": "நீங்கள் யோகா வகுப்புகளை நடத்துகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், யோகா வகுப்புகள் தினமும் காலை மற்றும் மாலை நடைபெறுகின்றன."
+  },
+  {
+    "domain": "education",
+    "q_en": "Do you offer online courses?",
+    "a_en": "Yes, we provide online and offline courses.",
+    "q_ta": "நீங்கள் ஆன்லைன் பாடங்களை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் ஆன்லைன் மற்றும் ஆஃப்லைன் பாடங்களை வழங்குகிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Can you tell me, do you offer online courses?",
+    "a_en": "Yes, we provide online and offline courses.",
+    "q_ta": "நீங்கள் ஆன்லைன் பாடங்களை வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் ஆன்லைன் மற்றும் ஆஃப்லைன் பாடங்களை வழங்குகிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Are you able to offer online courses?",
+    "a_en": "Yes, we provide online and offline courses.",
+    "q_ta": "நீங்கள் ஆன்லைன் பாடங்களை வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், நாங்கள் ஆன்லைன் மற்றும் ஆஃப்லைன் பாடங்களை வழங்குகிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "I would like to know, do you offer online courses?",
+    "a_en": "Yes, we provide online and offline courses.",
+    "q_ta": "நீங்கள் ஆன்லைன் பாடங்களை வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் ஆன்லைன் மற்றும் ஆஃப்லைன் பாடங்களை வழங்குகிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்?",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Can you tell me, what subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "I would like to know, what subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Can you tell me, do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Are you able to provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "education",
+    "q_en": "I would like to know, do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Do you offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Can you tell me, do you offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Are you able to offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "I would like to know, do you offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Can you tell me, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "I would like to know, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Do you provide airport pickup?",
+    "a_en": "Yes, airport pickup and drop services are available.",
+    "q_ta": "நீங்கள் விமான நிலைய பிக்கப்பை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், விமான நிலைய பிக்கப் மற்றும் டிராப் சேவைகள் கிடைக்கின்றன."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Can you tell me, do you provide airport pickup?",
+    "a_en": "Yes, airport pickup and drop services are available.",
+    "q_ta": "நீங்கள் விமான நிலைய பிக்கப்பை வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், விமான நிலைய பிக்கப் மற்றும் டிராப் சேவைகள் கிடைக்கின்றன."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Are you able to provide airport pickup?",
+    "a_en": "Yes, airport pickup and drop services are available.",
+    "q_ta": "நீங்கள் விமான நிலைய பிக்கப்பை வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், விமான நிலைய பிக்கப் மற்றும் டிராப் சேவைகள் கிடைக்கின்றன."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "I would like to know, do you provide airport pickup?",
+    "a_en": "Yes, airport pickup and drop services are available.",
+    "q_ta": "நீங்கள் விமான நிலைய பிக்கப்பை வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், விமான நிலைய பிக்கப் மற்றும் டிராப் சேவைகள் கிடைக்கின்றன."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "education",
+    "q_en": "Do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "What are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, what are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, what are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "I would like to know, do you offer yoga classes?",
+    "a_en": "Yes, yoga classes are conducted daily in the morning and evening.",
+    "q_ta": "நீங்கள் யோகா வகுப்புகளை நடத்துகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், யோகா வகுப்புகள் தினமும் காலை மற்றும் மாலை நடைபெறுகின்றன."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "What are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Do you provide airport pickup?",
+    "a_en": "Yes, airport pickup and drop services are available.",
+    "q_ta": "நீங்கள் விமான நிலைய பிக்கப்பை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், விமான நிலைய பிக்கப் மற்றும் டிராப் சேவைகள் கிடைக்கின்றன."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Are you able to offer yoga classes?",
+    "a_en": "Yes, yoga classes are conducted daily in the morning and evening.",
+    "q_ta": "நீங்கள் யோகா வகுப்புகளை நடத்துகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், யோகா வகுப்புகள் தினமும் காலை மற்றும் மாலை நடைபெறுகின்றன."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "What are your gym timings?",
+    "a_en": "We are open 6 AM to 10 PM every day.",
+    "q_ta": "உங்கள் ஜிம் நேரம் என்ன?",
+    "a_ta": "எங்கள் ஜிம் தினமும் காலை 6 மணி முதல் இரவு 10 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, what are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Can you tell me, do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Can you tell me, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "I would like to know, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "education",
+    "q_en": "Do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "education",
+    "q_en": "Do you offer online courses?",
+    "a_en": "Yes, we provide online and offline courses.",
+    "q_ta": "நீங்கள் ஆன்லைன் பாடங்களை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் ஆன்லைன் மற்றும் ஆஃப்லைன் பாடங்களை வழங்குகிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Can you tell me, do you offer online courses?",
+    "a_en": "Yes, we provide online and offline courses.",
+    "q_ta": "நீங்கள் ஆன்லைன் பாடங்களை வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் ஆன்லைன் மற்றும் ஆஃப்லைன் பாடங்களை வழங்குகிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "I would like to know, do you offer yoga classes?",
+    "a_en": "Yes, yoga classes are conducted daily in the morning and evening.",
+    "q_ta": "நீங்கள் யோகா வகுப்புகளை நடத்துகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், யோகா வகுப்புகள் தினமும் காலை மற்றும் மாலை நடைபெறுகின்றன."
+  },
+  {
+    "domain": "health",
+    "q_en": "Do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Are you able to provide lab tests?",
+    "a_en": "Yes, we provide home sample collection and lab tests.",
+    "q_ta": "நீங்கள் ஆய்வக பரிசோதனைகள் செய்கிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், நாங்கள் வீட்டில் மாதிரி சேகரிப்பு மற்றும் ஆய்வக பரிசோதனைகளை வழங்குகிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Do you offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Do you offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, what are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, what are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Can you tell me, do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Are you able to offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "health",
+    "q_en": "Do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Do you offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "education",
+    "q_en": "I would like to know, do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Can you tell me, what are your gym timings?",
+    "a_en": "We are open 6 AM to 10 PM every day.",
+    "q_ta": "உங்கள் ஜிம் நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் ஜிம் தினமும் காலை 6 மணி முதல் இரவு 10 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Can you tell me, what subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Can you tell me, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, do you provide lab tests?",
+    "a_en": "Yes, we provide home sample collection and lab tests.",
+    "q_ta": "நீங்கள் ஆய்வக பரிசோதனைகள் செய்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் வீட்டில் மாதிரி சேகரிப்பு மற்றும் ஆய்வக பரிசோதனைகளை வழங்குகிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Do you provide airport pickup?",
+    "a_en": "Yes, airport pickup and drop services are available.",
+    "q_ta": "நீங்கள் விமான நிலைய பிக்கப்பை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், விமான நிலைய பிக்கப் மற்றும் டிராப் சேவைகள் கிடைக்கின்றன."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Can you tell me, do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Can you tell me, what are your gym timings?",
+    "a_en": "We are open 6 AM to 10 PM every day.",
+    "q_ta": "உங்கள் ஜிம் நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் ஜிம் தினமும் காலை 6 மணி முதல் இரவு 10 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, what are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, what are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, what are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "I would like to know, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "I would like to know, do you provide airport pickup?",
+    "a_en": "Yes, airport pickup and drop services are available.",
+    "q_ta": "நீங்கள் விமான நிலைய பிக்கப்பை வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், விமான நிலைய பிக்கப் மற்றும் டிராப் சேவைகள் கிடைக்கின்றன."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "education",
+    "q_en": "Can you tell me, do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Can you tell me, do you offer yoga classes?",
+    "a_en": "Yes, yoga classes are conducted daily in the morning and evening.",
+    "q_ta": "நீங்கள் யோகா வகுப்புகளை நடத்துகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், யோகா வகுப்புகள் தினமும் காலை மற்றும் மாலை நடைபெறுகின்றன."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "What are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, what are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Can you tell me, what are your gym timings?",
+    "a_en": "We are open 6 AM to 10 PM every day.",
+    "q_ta": "உங்கள் ஜிம் நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் ஜிம் தினமும் காலை 6 மணி முதல் இரவு 10 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, what are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, what are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Do you offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Do you offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "education",
+    "q_en": "Do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, do you accept digital payments?",
+    "a_en": "Yes, we accept UPI, cards, and online payments.",
+    "q_ta": "நீங்கள் டிஜிட்டல் கட்டணங்களை ஏற்றுக்கொள்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் UPI, கார்டு மற்றும் ஆன்லைன் கட்டணங்களை ஏற்றுக்கொள்கிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Can you tell me, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, what are your clinic hours?",
+    "a_en": "Our clinic is open from 9 AM to 6 PM, Monday to Friday.",
+    "q_ta": "உங்கள் மருத்துவமனை நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் மருத்துவமனை திங்கள் முதல் வெள்ளி வரை காலை 9 மணி முதல் மாலை 6 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Can you tell me, do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "What are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "health",
+    "q_en": "Do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "I would like to know, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Are you able to offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "education",
+    "q_en": "Can you tell me, do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, do you provide lab tests?",
+    "a_en": "Yes, we provide home sample collection and lab tests.",
+    "q_ta": "நீங்கள் ஆய்வக பரிசோதனைகள் செய்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் வீட்டில் மாதிரி சேகரிப்பு மற்றும் ஆய்வக பரிசோதனைகளை வழங்குகிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "I would like to know, do you offer yoga classes?",
+    "a_en": "Yes, yoga classes are conducted daily in the morning and evening.",
+    "q_ta": "நீங்கள் யோகா வகுப்புகளை நடத்துகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், யோகா வகுப்புகள் தினமும் காலை மற்றும் மாலை நடைபெறுகின்றன."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Can you tell me, what are your gym timings?",
+    "a_en": "We are open 6 AM to 10 PM every day.",
+    "q_ta": "உங்கள் ஜிம் நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் ஜிம் தினமும் காலை 6 மணி முதல் இரவு 10 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Are you able to offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Do you offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "education",
+    "q_en": "Do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "What are your gym timings?",
+    "a_en": "We are open 6 AM to 10 PM every day.",
+    "q_ta": "உங்கள் ஜிம் நேரம் என்ன?",
+    "a_ta": "எங்கள் ஜிம் தினமும் காலை 6 மணி முதல் இரவு 10 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Can you tell me, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்?",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Can you tell me, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, do you provide lab tests?",
+    "a_en": "Yes, we provide home sample collection and lab tests.",
+    "q_ta": "நீங்கள் ஆய்வக பரிசோதனைகள் செய்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் வீட்டில் மாதிரி சேகரிப்பு மற்றும் ஆய்வக பரிசோதனைகளை வழங்குகிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "I would like to know, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "What are your gym timings?",
+    "a_en": "We are open 6 AM to 10 PM every day.",
+    "q_ta": "உங்கள் ஜிம் நேரம் என்ன? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "எங்கள் ஜிம் தினமும் காலை 6 மணி முதல் இரவு 10 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "What subjects do you teach?",
+    "a_en": "We offer classes in science, math, and languages.",
+    "q_ta": "நீங்கள் எந்த பாடங்களை கற்பிக்கிறீர்கள்? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "நாங்கள் அறிவியல், கணிதம் மற்றும் மொழிகள் பாடங்களை கற்பிக்கிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Can you tell me, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Can you tell me, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "health",
+    "q_en": "Do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Can you tell me, do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, what are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Are you able to provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, what are your salon hours?",
+    "a_en": "We are open 10 AM to 8 PM, Monday to Saturday.",
+    "q_ta": "உங்கள் சலூன் நேரம் என்ன? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "எங்கள் சலூன் திங்கள் முதல் சனி வரை காலை 10 மணி முதல் இரவு 8 மணி வரை திறந்திருக்கும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Are you able to provide lab tests?",
+    "a_en": "Yes, we provide home sample collection and lab tests.",
+    "q_ta": "நீங்கள் ஆய்வக பரிசோதனைகள் செய்கிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், நாங்கள் வீட்டில் மாதிரி சேகரிப்பு மற்றும் ஆய்வக பரிசோதனைகளை வழங்குகிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Are you able to provide airport pickup?",
+    "a_en": "Yes, airport pickup and drop services are available.",
+    "q_ta": "நீங்கள் விமான நிலைய பிக்கப்பை வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், விமான நிலைய பிக்கப் மற்றும் டிராப் சேவைகள் கிடைக்கின்றன."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Can you tell me, is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Can you tell me, do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Can you tell me, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "health",
+    "q_en": "Are you able to offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Do you offer hair straightening?",
+    "a_en": "Yes, we offer temporary and permanent hair straightening services.",
+    "q_ta": "நீங்கள் ஹேர் ஸ்ட்ரெயிட்டனிங் செய்கிறீர்களா?",
+    "a_ta": "ஆம், எங்களிடம் தற்காலிக மற்றும் நிரந்தர ஹேர் ஸ்ட்ரெயிட்டனிங் சேவைகள் உள்ளன."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you have personal trainers?",
+    "a_en": "Yes, certified personal trainers are available.",
+    "q_ta": "நீங்கள் தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறீர்களா?",
+    "a_ta": "ஆம், நாங்கள் சான்றளிக்கப்பட்ட தனிப்பட்ட பயிற்சியாளர்களை கொண்டிருக்கிறோம்."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you offer yoga classes?",
+    "a_en": "Yes, yoga classes are conducted daily in the morning and evening.",
+    "q_ta": "நீங்கள் யோகா வகுப்புகளை நடத்துகிறீர்களா?",
+    "a_ta": "ஆம், யோகா வகுப்புகள் தினமும் காலை மற்றும் மாலை நடைபெறுகின்றன."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "Are you able to offer room service?",
+    "a_en": "Yes, 24/7 room service is available.",
+    "q_ta": "நீங்கள் அறை சேவையை வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், 24/7 அறை சேவை கிடைக்கிறது."
+  },
+  {
+    "domain": "education",
+    "q_en": "Do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  },
+  {
+    "domain": "health",
+    "q_en": "Are you able to offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, do you accept digital payments?",
+    "a_en": "Yes, we accept UPI, cards, and online payments.",
+    "q_ta": "நீங்கள் டிஜிட்டல் கட்டணங்களை ஏற்றுக்கொள்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் UPI, கார்டு மற்றும் ஆன்லைன் கட்டணங்களை ஏற்றுக்கொள்கிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "health",
+    "q_en": "Can you tell me, do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? தயவு செய்து சொல்ல முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "Is prior booking required?",
+    "a_en": "Yes, we recommend booking at least one day in advance.",
+    "q_ta": "முன்பதிவு அவசியமா? என்பதை அறிய விரும்புகிறேன்.",
+    "a_ta": "ஆம், குறைந்தபட்சம் ஒரு நாள் முன்பதிவு செய்ய பரிந்துரைக்கப்படுகிறது."
+  },
+  {
+    "domain": "hospitality",
+    "q_en": "I would like to know, is breakfast included?",
+    "a_en": "Yes, complimentary breakfast is included with all bookings.",
+    "q_ta": "காலை உணவு சேர்க்கப்பட்டதா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், அனைத்து முன்பதிவுகளிலும் இலவச காலை உணவு சேர்க்கப்பட்டுள்ளது."
+  },
+  {
+    "domain": "fitness",
+    "q_en": "Do you offer yoga classes?",
+    "a_en": "Yes, yoga classes are conducted daily in the morning and evening.",
+    "q_ta": "நீங்கள் யோகா வகுப்புகளை நடத்துகிறீர்களா?",
+    "a_ta": "ஆம், யோகா வகுப்புகள் தினமும் காலை மற்றும் மாலை நடைபெறுகின்றன."
+  },
+  {
+    "domain": "health",
+    "q_en": "I would like to know, do you offer online consultations?",
+    "a_en": "Yes, online doctor consultations are available by appointment.",
+    "q_ta": "நீங்கள் ஆன்லைன் ஆலோசனைகள் வழங்குகிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் முன்பதிவின் மூலம் ஆன்லைன் டாக்டர் ஆலோசனைகள் வழங்குகிறோம்."
+  },
+  {
+    "domain": "beauty",
+    "q_en": "I would like to know, do you accept digital payments?",
+    "a_en": "Yes, we accept UPI, cards, and online payments.",
+    "q_ta": "நீங்கள் டிஜிட்டல் கட்டணங்களை ஏற்றுக்கொள்கிறீர்களா? பற்றி தகவல் தர முடியுமா?",
+    "a_ta": "ஆம், நாங்கள் UPI, கார்டு மற்றும் ஆன்லைன் கட்டணங்களை ஏற்றுக்கொள்கிறோம்."
+  },
+  {
+    "domain": "education",
+    "q_en": "Do you provide certificates?",
+    "a_en": "Yes, certificates are provided after course completion.",
+    "q_ta": "நீங்கள் சான்றிதழ்களை வழங்குகிறீர்களா?",
+    "a_ta": "ஆம், பாடநெறி முடிந்தவுடன் சான்றிதழ்கள் வழங்கப்படும்."
+  }
+]
