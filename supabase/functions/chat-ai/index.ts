@@ -33,19 +33,23 @@ serve(async (req) => {
     const language = detectLanguage(message);
     console.log('Detected language:', language);
 
-    // Load FAQ data
-    const faqUrl = 'https://xhfvejtcfizuefpfpnki.supabase.co/storage/v1/object/public/faqs/faqs.json';
-    let faqs = [];
-    try {
-      const faqResponse = await fetch(faqUrl);
-      if (faqResponse.ok) {
-        faqs = await faqResponse.json();
-      }
-    } catch (error) {
-      console.error('Error loading FAQs:', error);
+    // Query FAQs from database
+    const qField = language === 'tamil' ? 'q_ta' : 'q_en';
+    const aField = language === 'tamil' ? 'a_ta' : 'a_en';
+    
+    // Search for FAQs matching keywords in the user's message
+    const { data: faqs, error: faqError } = await supabase
+      .from('faqs')
+      .select('*')
+      .limit(500);
+
+    if (faqError) {
+      console.error('Error loading FAQs:', faqError);
     }
 
-    // Find relevant FAQs based on user message
+    console.log(`Loaded ${faqs?.length || 0} FAQs from database`);
+
+    // Find relevant FAQs based on user message using simple keyword matching
     const findRelevantFAQs = (userMessage: string, language: string, faqData: any[], topK = 5) => {
       const messageLower = userMessage.toLowerCase();
       const qField = language === 'tamil' ? 'q_ta' : 'q_en';
@@ -55,12 +59,19 @@ serve(async (req) => {
       const scoredFAQs = faqData.map(faq => {
         const question = faq[qField]?.toLowerCase() || '';
         const words = messageLower.split(/\s+/);
-        const matchScore = words.reduce((score, word) => {
+        
+        // Count matching words
+        let matchScore = 0;
+        words.forEach(word => {
           if (word.length > 2 && question.includes(word)) {
-            return score + 1;
+            matchScore += 1;
           }
-          return score;
-        }, 0);
+        });
+        
+        // Exact match bonus
+        if (question.includes(messageLower) || messageLower.includes(question)) {
+          matchScore += 10;
+        }
         
         return {
           question: faq[qField],
@@ -76,8 +87,8 @@ serve(async (req) => {
         .slice(0, topK);
     };
 
-    const relevantFAQs = findRelevantFAQs(message, language, faqs);
-    console.log('Found relevant FAQs:', relevantFAQs.length);
+    const relevantFAQs = findRelevantFAQs(message, language, faqs || []);
+    console.log('Found relevant FAQs:', relevantFAQs.length, relevantFAQs.slice(0, 2));
 
     // Build context from relevant FAQs
     let contextString = '';
