@@ -132,12 +132,29 @@ ${contextString || 'No relevant information found for this query.'}`;
     let botReply = '';
     let escalated = false;
     
-    // If no relevant FAQs found, escalate immediately
-    if (relevantFAQs.length === 0) {
-      escalated = true;
+    // If no relevant FAQs found, provide helpful guidance instead of immediate escalation
+    if (relevantFAQs.length === 0 || relevantFAQs[0].score < 2) {
       botReply = language === 'tamil' 
-        ? 'மன்னிக்கவும், இந்தக் கேள்விக்கான தகவல் என்னிடம் இல்லை. மனித முகவரிடம் அனுப்புகிறேன்.'
-        : 'Sorry, I don\'t have information about this query. Escalating to human agent.';
+        ? `மன்னிக்கவும், உங்கள் கேள்விக்கு பொருத்தமான தகவல் என் தரவுத்தளத்தில் இல்லை. 
+
+நான் பின்வரும் தலைப்புகளில் உங்களுக்கு உதவ முடியும்:
+- அழகு சேவைகள் மற்றும் நியமனங்கள்
+- விலைகள் மற்றும் கட்டண விவரங்கள்
+- முன்பதிவு மற்றும் வசதிகள்
+- வேறு ஏதாவது குறிப்பிட்ட கேள்வி இருந்தால் கேளுங்கள்
+
+மனித முகவரிடம் பேச விரும்புகிறீர்களா?`
+        : `I apologize, but I don't have specific information about your query in my knowledge base.
+
+I can help you with topics related to:
+- Beauty services and appointments
+- Pricing and payment details
+- Booking procedures and facilities
+- Any other specific questions you may have
+
+Would you like me to connect you with a human agent for more assistance?`;
+      // Don't mark as escalated yet, give user a chance to ask something else
+      escalated = false;
     } else {
       try {
         const result = await model.generateContent([
